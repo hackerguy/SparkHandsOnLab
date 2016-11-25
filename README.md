@@ -31,13 +31,13 @@ In this lab, you will use a public data set of car accidents in the United State
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnCreate.jpg">
 
-#Step 3. Create a Spark Notebook
+#Step 3. Create a Spark notebook
 
 1. Click on NOTEBOOKS
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNotebooks.jpg">
 
-2. Create a New Notebook
+2. Click on New Notebook
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNewNotebook.jpg">
 
@@ -68,5 +68,12 @@ In this lab, you will use a public data set of car accidents in the United State
 
  D. Click on CREATE NOTEBOOK
 
-#Step 5. Follow Instructions in Notebook.
+#Step 5. Follow the instructions in the notebook
 
+The notebook contains markdown cells with instructions as well as blank code cells.
+Copy the code embedded in the instructions and paste it into the blank code cell direclty below each markdown cell.
+Run each code cell by clicking on the play botton.
+    
+Please note that you must run each code cell in order starting at the top of the notebook.
+
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/RunButton.jpg">
