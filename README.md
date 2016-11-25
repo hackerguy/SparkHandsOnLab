@@ -1,7 +1,7 @@
 <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/SparkLogo.jpg">
 #Spark Hands on Lab
 
-In this hands on lab, you will use a public data set of car accidents in the United States to perform hands on exercises with the Apache Spark service on Bluemix using a Python notebook.
+In this lab, you will use a public data set of car accidents in the United States to perform hands on exercises with the Apache Spark service on Bluemix using a Python notebook.
 
 # Instructions:
 
@@ -39,34 +39,34 @@ In this hands on lab, you will use a public data set of car accidents in the Uni
 
 2. Create a New Notebook
 
- > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNotebook.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNewNotebook.jpg">
 
 
 #Step 4. Import the Vehicle Accident Lab notebook
 
-1. From this GitHub page, click on the VehicleAccidentLab.ipynb link
+1. From above in this GitHub page, click on the VehicleAccidentLab.ipynb link (use Ctrl-click to open in a new browser tab)
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/VehicleAccidentLab.jpg">
 
-2. RIGHT click on Raw
+2. In the newly opend browser tab, **right** click on Raw
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/RightClickRaw.jpg">
 
 3. Click on Copy Link Location
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CopyLinkLocation.jpg">
-
-4. In the Create Notebook page on Bluemix
+ 
+4. In the Create Notebook page on Bluemix (back in the previous browser tab)
 
  > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNotebook.jpg">
 
-A. Click on From URL
+ A. Click on From URL
 
-B. Type in 'VehicleAccidentLab' for Name of Notebook
+ B. Type in 'VehicleAccidentLab' for Name of Notebook
 
-C. Paste the Notebook URL that you just copied from GitHub (as Copy Link Location)
+ C. Paste the Notebook URL that you just copied from GitHub (as Copy Link Location)
 
-D. Click on CREATE NOTEBOOK
+ D. Click on CREATE NOTEBOOK
 
 #Step 5. Follow Instructions in Notebook.
 
