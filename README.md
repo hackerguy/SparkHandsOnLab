@@ -64,7 +64,7 @@ In this lab, you will use a public data set of car accidents in the United State
 
  B. Type in 'VehicleAccidentLab' for Name of Notebook
 
- C. Paste the Notebook URL that you just copied from GitHub (as Copy Link Location)
+ C. Paste the Notebook URL that you just copied from GitHub (using Copy Link Location)
 
  D. Click on CREATE NOTEBOOK
 
