@@ -39,4 +39,34 @@ Description: Follow this lab and perform hands on exercises with the Apache Spar
 
 2. Create a New Notebook
 
-#Step 5. Follow Instructions in Notbook.
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNewNotebook.jpg">
+
+
+#Step 4. Import the Vehicle Accident Lab notebook
+
+1. From this GitHub page, click on the VehicleAccidentLab.ipynb link
+
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/VehicleAccidentLab.jpg">
+
+2. RIGHT click on Raw
+
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/RightClickRaw.jpg">
+
+3. Click on Copy Link Location
+
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CopyLinkLocation.jpg">
+
+4. In the Create Notebook page on Bluemix
+
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNotebook.jpg">
+
+A. Click on From URL
+
+B. Type in 'VehicleAccidentLab' for Name of Notebook
+
+C. Paste the Notebook URL that you just copied from GitHub (as Copy Link Location)
+
+D. Click on CREATE NOTEBOOK
+
+#Step 5. Follow Instructions in Notebook.
+
