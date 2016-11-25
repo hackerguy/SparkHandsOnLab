@@ -1,5 +1,5 @@
 <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/SparkLogo.jpg">
-#Hands on Lab - Bluemix
+#Spark Hands on Lab
 
 Description: Follow this lab and perform hands on exercises with the Apache Spark service on Bluemix. In this hands on lab, you will use a public data set of car accidents in the United States to perform basic corrolations. In this lab you will explore how the Bluemix Apache Spark service allows you to easily develop and share a model that scales using Apache Spark and Python.
 
@@ -35,7 +35,7 @@ Description: Follow this lab and perform hands on exercises with the Apache Spar
 
 1. Click on NOTEBOOKS
 
-src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNotebooks.jpg">
+> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNotebooks.jpg">
 
 2. Create a New Notebook
 
