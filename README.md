@@ -1,18 +1,15 @@
-<img src="https://github.com/IBMDataScience/WOW2016/blob/master/images/logo.png">
-#Hands on Lab - Data Science Experience
+<img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/BluemixLogin.jpg">
+#Hands on Lab - Bluemix
 
-Description: Follow this lab and perform hands on exercises with IBM Data Science Expereince. Use a public data set of car accidents in united states and perform basic corrolations. Data Science Experience allows you to easily develop and share a model that scales using Apache Spark, Python or RStudio. 
+Description: Follow this lab and perform hands on exercises with the Apache Spark service on Bluemix. In this hands on lab, you will use a public data set of car accidents in the United States to perform basic corrolations. In this lab you will explore how the Bluemix Apache Spark service allows you to easily develop and share a model that scales using Apache Spark and Python.
 
 # Instructions:
 
-#Step 1. Get on IBM Data Science Experience (DSX).
-##Create an account.
+#Step 1. Log In to Bluemix.
 
-1.  Go to [http://datascience.ibm.com/](http://datascience.ibm.com/)
+1.  Go to [https://console.ng.bluemix.net/](https://console.ng.bluemix.net/)
 
-2.  Click the signup button on the top right
-
- > <img src="https://github.com/ibmdataworks/datafirst/raw/master/datascientist/media/DSX Sign On.png">
+2.  Click the Log In button on the top right
 
 
 
