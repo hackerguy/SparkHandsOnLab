@@ -1,7 +1,7 @@
 <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/SparkLogo.jpg">
 #Spark Hands on Lab
 
-Description: Follow this lab and perform hands on exercises with the Apache Spark service on Bluemix. In this hands on lab, you will use a public data set of car accidents in the United States to perform basic corrolations. In this lab you will explore how the Bluemix Apache Spark service allows you to easily develop and share a model that scales using Apache Spark and Python.
+In this hands on lab, you will use a public data set of car accidents in the United States to perform hands on exercises with the Apache Spark service on Bluemix using a Python notebook.
 
 # Instructions:
 
@@ -29,36 +29,36 @@ Description: Follow this lab and perform hands on exercises with the Apache Spar
 
 4. Click on Create
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnCreate.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnCreate.jpg">
 
 #Step 3. Create a Spark Notebook
 
 1. Click on NOTEBOOKS
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNotebooks.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/ClickOnNotebooks.jpg">
 
 2. Create a New Notebook
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNewNotebook.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNotebook.jpg">
 
 
 #Step 4. Import the Vehicle Accident Lab notebook
 
 1. From this GitHub page, click on the VehicleAccidentLab.ipynb link
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/VehicleAccidentLab.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/VehicleAccidentLab.jpg">
 
 2. RIGHT click on Raw
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/RightClickRaw.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/RightClickRaw.jpg">
 
 3. Click on Copy Link Location
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CopyLinkLocation.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CopyLinkLocation.jpg">
 
 4. In the Create Notebook page on Bluemix
 
-> <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNotebook.jpg">
+ > <img src="https://github.com/hackerguy/SparkHandsOnLab/blob/master/images/CreateNotebook.jpg">
 
 A. Click on From URL
 
