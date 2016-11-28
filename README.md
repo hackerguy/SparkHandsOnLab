@@ -72,7 +72,7 @@ In this lab, you will use a public data set of car accidents in the United State
 
 The notebook contains markdown cells with instructions as well as blank code cells.
 Copy the code embedded in the instructions and paste it into the blank code cell direclty below each markdown cell.
-Run each code cell by clicking on the play botton.
+Run each code cell by clicking on the play button.
     
 Please note that you must run each code cell in order starting at the top of the notebook.
 
